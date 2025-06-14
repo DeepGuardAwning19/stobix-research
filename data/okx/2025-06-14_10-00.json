@@ -1,0 +1,110 @@
+{
+  "date": "2025-06-14T10:00:00.008Z",
+  "exchange": "OKX",
+  "data": [
+    {
+      "token": "APT",
+      "apy": "182.64"
+    },
+    {
+      "token": "ARB",
+      "apy": "216.42"
+    },
+    {
+      "token": "BCH",
+      "apy": "172.76"
+    },
+    {
+      "token": "BETH",
+      "apy": "290.79"
+    },
+    {
+      "token": "BLUR",
+      "apy": "200.45"
+    },
+    {
+      "token": "BTC",
+      "apy": "103.89"
+    },
+    {
+      "token": "CFX",
+      "apy": "193.57"
+    },
+    {
+      "token": "DOGE",
+      "apy": "341.72"
+    },
+    {
+      "token": "ETC",
+      "apy": "125.12"
+    },
+    {
+      "token": "ETH",
+      "apy": "278.67"
+    },
+    {
+      "token": "FIL",
+      "apy": "127.72"
+    },
+    {
+      "token": "IP",
+      "apy": "261.02"
+    },
+    {
+      "token": "LINK",
+      "apy": "183.96"
+    },
+    {
+      "token": "LTC",
+      "apy": "260.69"
+    },
+    {
+      "token": "MASK",
+      "apy": "341.26"
+    },
+    {
+      "token": "OKSOL",
+      "apy": "321.29"
+    },
+    {
+      "token": "OP",
+      "apy": "283.06"
+    },
+    {
+      "token": "ORDI",
+      "apy": "341.33"
+    },
+    {
+      "token": "PARTI",
+      "apy": "342.52"
+    },
+    {
+      "token": "PEPE",
+      "apy": "321.11"
+    },
+    {
+      "token": "SOL",
+      "apy": "321.29"
+    },
+    {
+      "token": "SUI",
+      "apy": "301.70"
+    },
+    {
+      "token": "TRUMP",
+      "apy": "151.53"
+    },
+    {
+      "token": "USDT",
+      "apy": "342.52"
+    },
+    {
+      "token": "WLD",
+      "apy": "281.99"
+    },
+    {
+      "token": "XRP",
+      "apy": "124.92"
+    }
+  ]
+}
