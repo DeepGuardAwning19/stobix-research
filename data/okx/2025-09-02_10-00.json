@@ -1,0 +1,102 @@
+{
+  "date": "2025-09-02T10:00:00.007Z",
+  "exchange": "OKX",
+  "data": [
+    {
+      "token": "APT",
+      "apy": "143.90"
+    },
+    {
+      "token": "ARB",
+      "apy": "342.69"
+    },
+    {
+      "token": "BCH",
+      "apy": "97.61"
+    },
+    {
+      "token": "BETH",
+      "apy": "326.89"
+    },
+    {
+      "token": "BTC",
+      "apy": "167.04"
+    },
+    {
+      "token": "DOGE",
+      "apy": "240.35"
+    },
+    {
+      "token": "ETC",
+      "apy": "94.13"
+    },
+    {
+      "token": "ETH",
+      "apy": "326.89"
+    },
+    {
+      "token": "FIL",
+      "apy": "200.09"
+    },
+    {
+      "token": "LINK",
+      "apy": "111.80"
+    },
+    {
+      "token": "LTC",
+      "apy": "129.44"
+    },
+    {
+      "token": "OKSOL",
+      "apy": "301.08"
+    },
+    {
+      "token": "OP",
+      "apy": "113.18"
+    },
+    {
+      "token": "ORDI",
+      "apy": "111.84"
+    },
+    {
+      "token": "PENGU",
+      "apy": "381.90"
+    },
+    {
+      "token": "PEPE",
+      "apy": "79.79"
+    },
+    {
+      "token": "PUMP",
+      "apy": "585.85"
+    },
+    {
+      "token": "SAHARA",
+      "apy": "382.50"
+    },
+    {
+      "token": "SOL",
+      "apy": "301.13"
+    },
+    {
+      "token": "SUI",
+      "apy": "118.80"
+    },
+    {
+      "token": "TRUMP",
+      "apy": "155.89"
+    },
+    {
+      "token": "USDT",
+      "apy": "407.36"
+    },
+    {
+      "token": "WLD",
+      "apy": "108.41"
+    },
+    {
+      "token": "XRP",
+      "apy": "117.44"
+    }
+  ]
+}
