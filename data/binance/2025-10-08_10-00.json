@@ -1,0 +1,90 @@
+{
+  "date": "2025-10-08T10:00:00.007Z",
+  "exchange": "Binance",
+  "data": [
+    {
+      "token": "ADA",
+      "apy": "211.00"
+    },
+    {
+      "token": "AVAX",
+      "apy": "262.55"
+    },
+    {
+      "token": "BCH",
+      "apy": "78.37"
+    },
+    {
+      "token": "BNB",
+      "apy": "184.76"
+    },
+    {
+      "token": "BNSOL",
+      "apy": "134.72"
+    },
+    {
+      "token": "BTC",
+      "apy": "176.19"
+    },
+    {
+      "token": "DOGE",
+      "apy": "292.51"
+    },
+    {
+      "token": "DOGS",
+      "apy": "65.95"
+    },
+    {
+      "token": "DOT",
+      "apy": "198.22"
+    },
+    {
+      "token": "ETH",
+      "apy": "288.08"
+    },
+    {
+      "token": "LTC",
+      "apy": "204.24"
+    },
+    {
+      "token": "NEAR",
+      "apy": "248.07"
+    },
+    {
+      "token": "NOT",
+      "apy": "47.60"
+    },
+    {
+      "token": "POL",
+      "apy": "94.53"
+    },
+    {
+      "token": "S",
+      "apy": "240.60"
+    },
+    {
+      "token": "SOL",
+      "apy": "206.23"
+    },
+    {
+      "token": "SUI",
+      "apy": "197.91"
+    },
+    {
+      "token": "TON",
+      "apy": "146.77"
+    },
+    {
+      "token": "TRUMP",
+      "apy": "131.75"
+    },
+    {
+      "token": "WBETH",
+      "apy": "166.42"
+    },
+    {
+      "token": "XRP",
+      "apy": "122.03"
+    }
+  ]
+}
