@@ -1,0 +1,134 @@
+{
+  "date": "2025-11-14T10:00:00.008Z",
+  "exchange": "OKX",
+  "data": [
+    {
+      "token": "APT",
+      "apy": "300.89"
+    },
+    {
+      "token": "ARB",
+      "apy": "143.65"
+    },
+    {
+      "token": "ASTER",
+      "apy": "341.35"
+    },
+    {
+      "token": "AVNT",
+      "apy": "545.87"
+    },
+    {
+      "token": "BARD",
+      "apy": "105.29"
+    },
+    {
+      "token": "BCH",
+      "apy": "322.51"
+    },
+    {
+      "token": "BETH",
+      "apy": "566.32"
+    },
+    {
+      "token": "BTC",
+      "apy": "341.35"
+    },
+    {
+      "token": "DOGE",
+      "apy": "422.50"
+    },
+    {
+      "token": "ETC",
+      "apy": "220.21"
+    },
+    {
+      "token": "ETH",
+      "apy": "586.85"
+    },
+    {
+      "token": "FIL",
+      "apy": "341.35"
+    },
+    {
+      "token": "HYPE",
+      "apy": "442.87"
+    },
+    {
+      "token": "LINEA",
+      "apy": "524.45"
+    },
+    {
+      "token": "LINK",
+      "apy": "303.46"
+    },
+    {
+      "token": "LTC",
+      "apy": "321.11"
+    },
+    {
+      "token": "OKSOL",
+      "apy": "343.32"
+    },
+    {
+      "token": "OP",
+      "apy": "341.35"
+    },
+    {
+      "token": "ORDI",
+      "apy": "300.89"
+    },
+    {
+      "token": "PENGU",
+      "apy": "362.20"
+    },
+    {
+      "token": "PEPE",
+      "apy": "163.92"
+    },
+    {
+      "token": "PUMP",
+      "apy": "565.36"
+    },
+    {
+      "token": "SOL",
+      "apy": "343.15"
+    },
+    {
+      "token": "SUI",
+      "apy": "504.05"
+    },
+    {
+      "token": "TRUMP",
+      "apy": "304.52"
+    },
+    {
+      "token": "USDT",
+      "apy": "586.85"
+    },
+    {
+      "token": "VIRTUAL",
+      "apy": "382.43"
+    },
+    {
+      "token": "WLD",
+      "apy": "301.47"
+    },
+    {
+      "token": "WLFI",
+      "apy": "364.01"
+    },
+    {
+      "token": "XPL",
+      "apy": "544.90"
+    },
+    {
+      "token": "XRP",
+      "apy": "135.84"
+    },
+    {
+      "token": "YB",
+      "apy": "341.35"
+    }
+  ]
+}
