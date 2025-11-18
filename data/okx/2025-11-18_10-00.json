@@ -1,0 +1,134 @@
+{
+  "date": "2025-11-18T10:00:00.028Z",
+  "exchange": "OKX",
+  "data": [
+    {
+      "token": "APT",
+      "apy": "342.93"
+    },
+    {
+      "token": "ARB",
+      "apy": "341.35"
+    },
+    {
+      "token": "ASTER",
+      "apy": "280.69"
+    },
+    {
+      "token": "AVNT",
+      "apy": "524.45"
+    },
+    {
+      "token": "BARD",
+      "apy": "63.05"
+    },
+    {
+      "token": "BCH",
+      "apy": "381.74"
+    },
+    {
+      "token": "BETH",
+      "apy": "478.05"
+    },
+    {
+      "token": "BTC",
+      "apy": "292.69"
+    },
+    {
+      "token": "DOGE",
+      "apy": "341.35"
+    },
+    {
+      "token": "ETC",
+      "apy": "402.76"
+    },
+    {
+      "token": "ETH",
+      "apy": "478.05"
+    },
+    {
+      "token": "FIL",
+      "apy": "260.51"
+    },
+    {
+      "token": "HYPE",
+      "apy": "382.34"
+    },
+    {
+      "token": "LINEA",
+      "apy": "341.68"
+    },
+    {
+      "token": "LINK",
+      "apy": "381.90"
+    },
+    {
+      "token": "LTC",
+      "apy": "341.46"
+    },
+    {
+      "token": "OKSOL",
+      "apy": "402.20"
+    },
+    {
+      "token": "OP",
+      "apy": "263.64"
+    },
+    {
+      "token": "ORDI",
+      "apy": "280.69"
+    },
+    {
+      "token": "PENGU",
+      "apy": "382.22"
+    },
+    {
+      "token": "PEPE",
+      "apy": "184.00"
+    },
+    {
+      "token": "PUMP",
+      "apy": "585.25"
+    },
+    {
+      "token": "SOL",
+      "apy": "402.20"
+    },
+    {
+      "token": "SUI",
+      "apy": "503.75"
+    },
+    {
+      "token": "TRUMP",
+      "apy": "381.90"
+    },
+    {
+      "token": "USDT",
+      "apy": "585.25"
+    },
+    {
+      "token": "VIRTUAL",
+      "apy": "381.90"
+    },
+    {
+      "token": "WLD",
+      "apy": "281.49"
+    },
+    {
+      "token": "WLFI",
+      "apy": "442.73"
+    },
+    {
+      "token": "XPL",
+      "apy": "524.45"
+    },
+    {
+      "token": "XRP",
+      "apy": "171.25"
+    },
+    {
+      "token": "YB",
+      "apy": "322.63"
+    }
+  ]
+}
