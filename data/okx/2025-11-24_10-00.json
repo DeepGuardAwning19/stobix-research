@@ -1,0 +1,138 @@
+{
+  "date": "2025-11-24T10:00:00.008Z",
+  "exchange": "OKX",
+  "data": [
+    {
+      "token": "APT",
+      "apy": "260.60"
+    },
+    {
+      "token": "ARB",
+      "apy": "190.66"
+    },
+    {
+      "token": "ASTER",
+      "apy": "280.69"
+    },
+    {
+      "token": "AVNT",
+      "apy": "506.21"
+    },
+    {
+      "token": "BARD",
+      "apy": "260.86"
+    },
+    {
+      "token": "BCH",
+      "apy": "322.55"
+    },
+    {
+      "token": "BETH",
+      "apy": "402.20"
+    },
+    {
+      "token": "BTC",
+      "apy": "422.52"
+    },
+    {
+      "token": "DOGE",
+      "apy": "381.90"
+    },
+    {
+      "token": "ETC",
+      "apy": "211.80"
+    },
+    {
+      "token": "ETH",
+      "apy": "360.63"
+    },
+    {
+      "token": "FIL",
+      "apy": "270.39"
+    },
+    {
+      "token": "HYPE",
+      "apy": "565.61"
+    },
+    {
+      "token": "LINEA",
+      "apy": "485.24"
+    },
+    {
+      "token": "LINK",
+      "apy": "422.52"
+    },
+    {
+      "token": "LTC",
+      "apy": "196.06"
+    },
+    {
+      "token": "OKB",
+      "apy": "240.57"
+    },
+    {
+      "token": "OKSOL",
+      "apy": "280.69"
+    },
+    {
+      "token": "OP",
+      "apy": "323.42"
+    },
+    {
+      "token": "ORDI",
+      "apy": "301.44"
+    },
+    {
+      "token": "PENGU",
+      "apy": "361.61"
+    },
+    {
+      "token": "PEPE",
+      "apy": "183.44"
+    },
+    {
+      "token": "PUMP",
+      "apy": "565.36"
+    },
+    {
+      "token": "SOL",
+      "apy": "402.20"
+    },
+    {
+      "token": "SUI",
+      "apy": "483.62"
+    },
+    {
+      "token": "TRUMP",
+      "apy": "363.29"
+    },
+    {
+      "token": "USDT",
+      "apy": "565.61"
+    },
+    {
+      "token": "VIRTUAL",
+      "apy": "381.90"
+    },
+    {
+      "token": "WLD",
+      "apy": "261.29"
+    },
+    {
+      "token": "WLFI",
+      "apy": "462.99"
+    },
+    {
+      "token": "XPL",
+      "apy": "524.45"
+    },
+    {
+      "token": "XRP",
+      "apy": "260.69"
+    },
+    {
+      "token": "YB",
+      "apy": "361.61"
+    }
+  ]
+}
