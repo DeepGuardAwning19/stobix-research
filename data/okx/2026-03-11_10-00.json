@@ -1,0 +1,135 @@
+{
+  "date": "2026-03-11T10:00:00.007Z",
+  "exchange": "OKX",
+  "data": [
+    {
+      "token": "APT"
+    },
+    {
+      "token": "ARB"
+    },
+    {
+      "token": "ASTER"
+    },
+    {
+      "token": "AVNT"
+    },
+    {
+      "token": "BARD"
+    },
+    {
+      "token": "BCH",
+      "apy": "132.79"
+    },
+    {
+      "token": "BETH",
+      "apy": "78.29"
+    },
+    {
+      "token": "BTC",
+      "apy": "272.43"
+    },
+    {
+      "token": "DASH",
+      "apy": "260.51"
+    },
+    {
+      "token": "DOGE",
+      "apy": "321.11"
+    },
+    {
+      "token": "ETC",
+      "apy": "122.74"
+    },
+    {
+      "token": "ETH",
+      "apy": "381.90"
+    },
+    {
+      "token": "FIL",
+      "apy": "113.65"
+    },
+    {
+      "token": "HYPE"
+    },
+    {
+      "token": "LINEA"
+    },
+    {
+      "token": "LINK",
+      "apy": "109.45"
+    },
+    {
+      "token": "LTC"
+    },
+    {
+      "token": "NIGHT"
+    },
+    {
+      "token": "OKB",
+      "apy": "24.78"
+    },
+    {
+      "token": "OKSOL",
+      "apy": "301.90"
+    },
+    {
+      "token": "OP"
+    },
+    {
+      "token": "ORDI"
+    },
+    {
+      "token": "PENGU"
+    },
+    {
+      "token": "PEPE"
+    },
+    {
+      "token": "PUMP"
+    },
+    {
+      "token": "SOL",
+      "apy": "35.63"
+    },
+    {
+      "token": "SUI"
+    },
+    {
+      "token": "TRUMP",
+      "apy": "151.88"
+    },
+    {
+      "token": "USDC"
+    },
+    {
+      "token": "USDG",
+      "apy": "165.04"
+    },
+    {
+      "token": "USDT",
+      "apy": "271.33"
+    },
+    {
+      "token": "VIRTUAL"
+    },
+    {
+      "token": "WLD"
+    },
+    {
+      "token": "WLFI"
+    },
+    {
+      "token": "XAUT"
+    },
+    {
+      "token": "XPL"
+    },
+    {
+      "token": "XRP"
+    },
+    {
+      "token": "ZEC"
+    }
+  ]
+}
