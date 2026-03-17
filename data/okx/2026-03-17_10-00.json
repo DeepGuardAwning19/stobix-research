@@ -1,0 +1,120 @@
+{
+  "date": "2026-03-17T10:00:00.006Z",
+  "exchange": "OKX",
+  "data": [
+    {
+      "token": "APT"
+    },
+    {
+      "token": "ARB"
+    },
+    {
+      "token": "ASTER"
+    },
+    {
+      "token": "AVNT"
+    },
+    {
+      "token": "BARD"
+    },
+    {
+      "token": "BCH"
+    },
+    {
+      "token": "BETH"
+    },
+    {
+      "token": "BTC"
+    },
+    {
+      "token": "DASH"
+    },
+    {
+      "token": "DOGE"
+    },
+    {
+      "token": "ETC"
+    },
+    {
+      "token": "ETH"
+    },
+    {
+      "token": "FIL"
+    },
+    {
+      "token": "HYPE"
+    },
+    {
+      "token": "LINEA"
+    },
+    {
+      "token": "LINK"
+    },
+    {
+      "token": "LTC"
+    },
+    {
+      "token": "NIGHT"
+    },
+    {
+      "token": "OKB"
+    },
+    {
+      "token": "OKSOL"
+    },
+    {
+      "token": "OP"
+    },
+    {
+      "token": "ORDI"
+    },
+    {
+      "token": "PENGU"
+    },
+    {
+      "token": "PEPE"
+    },
+    {
+      "token": "PUMP"
+    },
+    {
+      "token": "SOL"
+    },
+    {
+      "token": "SUI"
+    },
+    {
+      "token": "TRUMP"
+    },
+    {
+      "token": "USDC"
+    },
+    {
+      "token": "USDG"
+    },
+    {
+      "token": "USDT"
+    },
+    {
+      "token": "VIRTUAL"
+    },
+    {
+      "token": "WLD"
+    },
+    {
+      "token": "WLFI"
+    },
+    {
+      "token": "XAUT"
+    },
+    {
+      "token": "XPL"
+    },
+    {
+      "token": "XRP"
+    },
+    {
+      "token": "ZEC"
+    }
+  ]
+}
