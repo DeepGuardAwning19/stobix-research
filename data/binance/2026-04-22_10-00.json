@@ -1,0 +1,94 @@
+{
+  "date": "2026-04-22T10:00:00.006Z",
+  "exchange": "Binance",
+  "data": [
+    {
+      "token": "AAVE",
+      "apy": "136.27"
+    },
+    {
+      "token": "ADA",
+      "apy": "34.43"
+    },
+    {
+      "token": "ASTER",
+      "apy": "135.15"
+    },
+    {
+      "token": "AVAX",
+      "apy": "72.72"
+    },
+    {
+      "token": "BCH",
+      "apy": "52.99"
+    },
+    {
+      "token": "BNB",
+      "apy": "67.57"
+    },
+    {
+      "token": "BNSOL",
+      "apy": "40.28"
+    },
+    {
+      "token": "BTC",
+      "apy": "134.69"
+    },
+    {
+      "token": "DOGE",
+      "apy": "109.33"
+    },
+    {
+      "token": "DOT",
+      "apy": "119.81"
+    },
+    {
+      "token": "ENA",
+      "apy": "202.50"
+    },
+    {
+      "token": "ETH",
+      "apy": "248.82"
+    },
+    {
+      "token": "LTC",
+      "apy": "52.07"
+    },
+    {
+      "token": "NEAR",
+      "apy": "47.98"
+    },
+    {
+      "token": "PAXG",
+      "apy": "13.44"
+    },
+    {
+      "token": "SOL",
+      "apy": "136.27"
+    },
+    {
+      "token": "SUI",
+      "apy": "42.70"
+    },
+    {
+      "token": "TON",
+      "apy": "57.78"
+    },
+    {
+      "token": "UNI",
+      "apy": "97.81"
+    },
+    {
+      "token": "WBETH",
+      "apy": "113.33"
+    },
+    {
+      "token": "XRP",
+      "apy": "156.20"
+    },
+    {
+      "token": "ZEC",
+      "apy": "151.15"
+    }
+  ]
+}
